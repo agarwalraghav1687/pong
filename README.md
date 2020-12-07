@@ -1,5 +1,5 @@
 # Pong
- This is a remake of classic pong game, made on Löve platform.
+ This is a remake of classic pong game, made on Löve platform using Lua
  To run this you need to download Löve which you can download from https://love2d.org 
  
  Then you need to drag the downloaded pong folder to the love icon on your system and then you will be able to play the game
